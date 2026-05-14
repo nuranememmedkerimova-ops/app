@@ -6,3 +6,6 @@ deneme2.txt
 
 test/*
 !test/sc
+
+GİTHUP/*
+!GİTHUP/hamd
